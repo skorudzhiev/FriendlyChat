@@ -7,7 +7,7 @@ This repository contains code for the FriendlyChat project in the [Firebase in a
 
 FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
 
-![alt text](https://github.com/skorudzhiev/FriendlyChat/blob/master/readme_photos/FriendlyChat-SignIn.png =250x250) ![alt text](https://github.com/skorudzhiev/FriendlyChat/blob/master/readme_photos/FriendlyChat-chatScreen.png =250x250) 
+![alt text](https://github.com/skorudzhiev/FriendlyChat/blob/master/readme_photos/FriendlyChat-SignIn.png | width=100) ![alt text](https://github.com/skorudzhiev/FriendlyChat/blob/master/readme_photos/FriendlyChat-chatScreen.png | width=100) 
 
 ### Device permissions
 *App needs the following user's permissions to provide the featured functionality*
